@@ -13,6 +13,6 @@ password : members<br/>
 good luck with my tools :)<br/><br/><br/>
 
 My Blog:<br/>
-https://www.dogghozt.com<br/>
+https://www.himang.my.id/<br/>
 https://mytermuxxx.blogspot.com<br/>
 
