@@ -1,5 +1,11 @@
 # Toolsx
 
+<p align="center">
+  <a href="https://github.com/himangmyid/Toolsx">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himangmyid&repo=Toolsx&theme=tokyonight" alt="GitHub Repo Card">
+  </a>
+</p>
+
 pkg update && pkg upgrade<br/>
 pkg install git<br/>
 pkg install curl<br/>
